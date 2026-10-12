@@ -1,0 +1,13 @@
+Grid-origin sensitivity was assessed using saved predictions from all 24 fitted segmentation models at four image-detail settings within the same evaluation domain. For each grid size (1, 2 and 4 m), four origin offsets, (0,0), (M/2,0), (0,M/2) and (M/2,M/2), were evaluated at area limits of 10%, 20%, 30% and 50%, yielding 4,608 combinations. Units were ranked by predicted annotated-patch proportion and selected using the original whole-unit prefix rule. No models were refitted and no origin was selected based on its outcome.
+
+At the original origin, selected unit identifiers matched the archived results in all 1,152 combinations. Independent integration of the saved predictions also reproduced the archived unit values. Valid domain area and total annotated-patch area were conserved across origins, at approximately 1368.390496 m² and 47.878857 m², respectively.
+
+At a 10% area limit, the median range in captured annotated-patch percentage across the four origins was 2.51, 4.95 and 10.56 percentage points for the 1, 2 and 4 m grids, respectively. The corresponding maximum ranges were 8.57, 9.81 and 20.94 percentage points.
+
+Comparing the same relative origin within each grid size, the 4 m grid captured less annotated-patch area than the 2 m grid in 372 of 384 comparisons at the 10% limit, whereas it captured more in 272 of 384 comparisons at the 50% limit. These are comparisons of settings within one scene, not independent field replicates.
+
+A half-grid offset corresponds to 0.5, 1 and 2 m for the 1, 2 and 4 m grids, respectively. Equal normalized offsets therefore need not produce nested grids across sizes. The original nested-grid upper-bound argument does not apply to all shifted combinations. This analysis compares realized whole-unit prefix selections and claims no new optimal upper bound.
+
+This post-development analysis tests sensitivity to grid placement and provides no new independent validation. The reference masks delineate coarse patches rather than pure leaf cover, and capture does not measure control efficacy.
+
+Figure S18. Sensitivity of selected annotated-patch capture to grid origin. For a fixed model, image-detail setting, grid size and area limit, the range equals the highest minus the lowest captured annotated-patch percentage across the four origins. Each area limit includes all 96 model-by-resolution settings. Dots show individual ranges, diamonds show medians, and vertical lines show interquartile ranges. Horizontal jitter only separates points. The distribution describes variation among settings and is not a confidence interval across fields.

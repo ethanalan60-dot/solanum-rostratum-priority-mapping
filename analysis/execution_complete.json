@@ -1,0 +1,13 @@
+{
+  "started_utc": "2026-10-10T14:30:58.294058+00:00",
+  "completed_utc": "2026-10-10T14:41:08.586685+00:00",
+  "elapsed_seconds": 610.2926263809204,
+  "rows": 4608,
+  "models": 24,
+  "no_training": true,
+  "scope": "post-development within-scene sensitivity analysis",
+  "zero_origin_cases_exact_selected_IDs": 1152,
+  "all_inputs_frozen": true,
+  "max_area_conservation_error_m2": 4.547473508864641e-13,
+  "max_target_conservation_error_m2": 7.815970093361102e-14
+}

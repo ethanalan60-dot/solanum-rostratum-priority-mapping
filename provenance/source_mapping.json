@@ -1,0 +1,1371 @@
+{
+  "source_archive_sha256": "1e5991006454e98b13701db15f54eca0c71966bfc62938d619074c1b0eef7585",
+  "files": [
+    {
+      "file": "source/fixed_comparison/audit_prediction_geometry.py",
+      "archive_member": "fixed_comparison/audit_prediction_geometry.py",
+      "original_sha256": "7331845c41896f999b4088163ea3abd7bb7d079f42b132bb7ed73bb50e6636ce",
+      "published_sha256": "7331845c41896f999b4088163ea3abd7bb7d079f42b132bb7ed73bb50e6636ce",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/audit_selections.py",
+      "archive_member": "fixed_comparison/audit_selections.py",
+      "original_sha256": "0b77e53b59227afac7953781f0671a47461468178874dab9a2b1484465f12f74",
+      "published_sha256": "0b77e53b59227afac7953781f0671a47461468178874dab9a2b1484465f12f74",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/build_checkpoint_candidates.py",
+      "archive_member": "fixed_comparison/build_checkpoint_candidates.py",
+      "original_sha256": "d2e74977e0857c2e2ce27f5343ffc73436582e7f695c18f1562ac711587bf44a",
+      "published_sha256": "d2e74977e0857c2e2ce27f5343ffc73436582e7f695c18f1562ac711587bf44a",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_audit_prediction_geometry.py",
+      "archive_member": "fixed_comparison/check_audit_prediction_geometry.py",
+      "original_sha256": "ed723a0d74daaa1a8cf4c455c62947f346627115d2b32764ea2cb2fc8ca08502",
+      "published_sha256": "ed723a0d74daaa1a8cf4c455c62947f346627115d2b32764ea2cb2fc8ca08502",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_audit_selections.py",
+      "archive_member": "fixed_comparison/check_audit_selections.py",
+      "original_sha256": "12e2b13c54f715cfaac6147623d36c37b7b233ececdb970cf87f20d090c15a79",
+      "published_sha256": "12e2b13c54f715cfaac6147623d36c37b7b233ececdb970cf87f20d090c15a79",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_checkpoint_candidates.py",
+      "archive_member": "fixed_comparison/check_checkpoint_candidates.py",
+      "original_sha256": "fe936f36b138c1ebea8f0453129985174cb34144bc3de8f967d5e8a85053c7cf",
+      "published_sha256": "fe936f36b138c1ebea8f0453129985174cb34144bc3de8f967d5e8a85053c7cf",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_external_spatial.py",
+      "archive_member": "fixed_comparison/check_external_spatial.py",
+      "original_sha256": "efecc38d8886458e4dc3e394b7accb483036689d165241af70510b7ff23e3e21",
+      "published_sha256": "efecc38d8886458e4dc3e394b7accb483036689d165241af70510b7ff23e3e21",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_local_geometry.py",
+      "archive_member": "fixed_comparison/check_local_geometry.py",
+      "original_sha256": "75e06f52de23247a55d8d389f6d5d6ff68f20545c35ee68c2a1ebeab0d9a74a0",
+      "published_sha256": "75e06f52de23247a55d8d389f6d5d6ff68f20545c35ee68c2a1ebeab0d9a74a0",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_local_management.py",
+      "archive_member": "fixed_comparison/check_local_management.py",
+      "original_sha256": "7506fa923c9bfdfb49df1d12ba4e262fb01379969db5804e1446a445b85325b0",
+      "published_sha256": "7506fa923c9bfdfb49df1d12ba4e262fb01379969db5804e1446a445b85325b0",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_local_outcomes.py",
+      "archive_member": "fixed_comparison/check_local_outcomes.py",
+      "original_sha256": "a030eafdedbfb322cdd4bd6906a2bcf3fec43d6fd7c68c2a84623461aabffe93",
+      "published_sha256": "9e62a9e0bca414bea3baeb0d6f76bfa1c5ccc74606d45073224602563e2555ac",
+      "modified": true
+    },
+    {
+      "file": "source/fixed_comparison/check_prediction_queue.py",
+      "archive_member": "fixed_comparison/check_prediction_queue.py",
+      "original_sha256": "993fbc90de9c3428e7bc8f462dca44445d4dd1d11729a6d4708cec87d2c00485",
+      "published_sha256": "993fbc90de9c3428e7bc8f462dca44445d4dd1d11729a6d4708cec87d2c00485",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_preparation.py",
+      "archive_member": "fixed_comparison/check_preparation.py",
+      "original_sha256": "9a522bf3b4eb78b85f62d9dc0ea74141c1c28998acfb42a1cb5c16d4730558a8",
+      "published_sha256": "13fb8b890b96ab1c94db80bf6e690b3c127ebfee695f5e161cff7c4cb079be50",
+      "modified": true
+    },
+    {
+      "file": "source/fixed_comparison/check_readiness_inventory.py",
+      "archive_member": "fixed_comparison/check_readiness_inventory.py",
+      "original_sha256": "45c7f4c9e203808b99c4e5d3f2b660f9e9123254eb3fa16e79372fcfbe74f7f6",
+      "published_sha256": "45c7f4c9e203808b99c4e5d3f2b660f9e9123254eb3fa16e79372fcfbe74f7f6",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_report_tables.py",
+      "archive_member": "fixed_comparison/check_report_tables.py",
+      "original_sha256": "68ecee4a47550669eeb10c6dd2cbae9ae5609feec70a6d268c7e29a96ddff034",
+      "published_sha256": "68ecee4a47550669eeb10c6dd2cbae9ae5609feec70a6d268c7e29a96ddff034",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_selection_queue.py",
+      "archive_member": "fixed_comparison/check_selection_queue.py",
+      "original_sha256": "df49ea5a153d479c1d943b0798bdb15821fc63256355d46a75a69e3e4a44573e",
+      "published_sha256": "df49ea5a153d479c1d943b0798bdb15821fc63256355d46a75a69e3e4a44573e",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/check_stage_identity.py",
+      "archive_member": "fixed_comparison/check_stage_identity.py",
+      "original_sha256": "6b68fdb7657490efee2dc22f11f270863f38b49ac8cfac2290fedc8aa3ad2f88",
+      "published_sha256": "6b68fdb7657490efee2dc22f11f270863f38b49ac8cfac2290fedc8aa3ad2f88",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/core.py",
+      "archive_member": "fixed_comparison/core.py",
+      "original_sha256": "0aee6ecb2915b62b4f6df60d4dfb5007b77519d66095fcabce2bb965ce45b170",
+      "published_sha256": "0aee6ecb2915b62b4f6df60d4dfb5007b77519d66095fcabce2bb965ce45b170",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/data_io.py",
+      "archive_member": "fixed_comparison/data_io.py",
+      "original_sha256": "12e02924bbd9150e59a59d6563e9ef24aa8d55622e1cc3da57abd75a4d00c04a",
+      "published_sha256": "12e02924bbd9150e59a59d6563e9ef24aa8d55622e1cc3da57abd75a4d00c04a",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/external_arithmetic.py",
+      "archive_member": "fixed_comparison/external_arithmetic.py",
+      "original_sha256": "66e392bae128d3eb77c2eee1ca6ffa670416fe5cbc59d5516451ae05488b9b3e",
+      "published_sha256": "66e392bae128d3eb77c2eee1ca6ffa670416fe5cbc59d5516451ae05488b9b3e",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/external_spatial.py",
+      "archive_member": "fixed_comparison/external_spatial.py",
+      "original_sha256": "779298d6b50fe38f14425998479fb0542e6a4e25959b7f08ac066fb3d618b5b9",
+      "published_sha256": "779298d6b50fe38f14425998479fb0542e6a4e25959b7f08ac066fb3d618b5b9",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/frozen_models.py",
+      "archive_member": "fixed_comparison/frozen_models.py",
+      "original_sha256": "f33450f83340039224e19f5bb737650270140cb08671323042e009f64acb8614",
+      "published_sha256": "f33450f83340039224e19f5bb737650270140cb08671323042e009f64acb8614",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/frozen_nn.py",
+      "archive_member": "fixed_comparison/frozen_nn.py",
+      "original_sha256": "0a634ac49d4456e319bd9352db652020d1bd48c6021aca7db5b066d97c7a4894",
+      "published_sha256": "b121e4d27c2848523b599fe00d316da73c356077fc282587de84cba54571e834",
+      "modified": true
+    },
+    {
+      "file": "source/fixed_comparison/frozen_resample.py",
+      "archive_member": "fixed_comparison/frozen_resample.py",
+      "original_sha256": "bd1b0c83f52b5dc7c7a10b0edd2b5d5f950a5498f6400afc4616e1d87b705bad",
+      "published_sha256": "bd1b0c83f52b5dc7c7a10b0edd2b5d5f950a5498f6400afc4616e1d87b705bad",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/local_geometry.py",
+      "archive_member": "fixed_comparison/local_geometry.py",
+      "original_sha256": "c74b9d44d92ed6783d1570dfd147f63470563847c6fe19ff9fa6662a0c08198c",
+      "published_sha256": "c74b9d44d92ed6783d1570dfd147f63470563847c6fe19ff9fa6662a0c08198c",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/local_management.py",
+      "archive_member": "fixed_comparison/local_management.py",
+      "original_sha256": "2116651a372ff5f96b45dcbd38aa7a4819693a0ee1ae5cada367b26a0b8b11ba",
+      "published_sha256": "080783f3b5b24ab16effd2cdc51a877f31d7d2cfc409ac23e7f0f3e17b123bfe",
+      "modified": true
+    },
+    {
+      "file": "source/fixed_comparison/local_outcomes.py",
+      "archive_member": "fixed_comparison/local_outcomes.py",
+      "original_sha256": "ec034f7a45dd091d82965dc9742c801f6322caa8bdd30137737e8523333e3f57",
+      "published_sha256": "3ef4acde15e194e53332155f04d8e3360957d312bd993c51ebb36694ad810913",
+      "modified": true
+    },
+    {
+      "file": "source/fixed_comparison/pipeline.py",
+      "archive_member": "fixed_comparison/pipeline.py",
+      "original_sha256": "d2ccd11792286a6964cd011a67091022e8cefe503fc5d5c9b0cb11a62b6f4ad9",
+      "published_sha256": "d2ccd11792286a6964cd011a67091022e8cefe503fc5d5c9b0cb11a62b6f4ad9",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/prepare_scalar_baselines.py",
+      "archive_member": "fixed_comparison/prepare_scalar_baselines.py",
+      "original_sha256": "cae4b2364602edee2c61e25155a32733a56c804ca71492ba519d62665742da61",
+      "published_sha256": "cae4b2364602edee2c61e25155a32733a56c804ca71492ba519d62665742da61",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/report_tables.py",
+      "archive_member": "fixed_comparison/report_tables.py",
+      "original_sha256": "1139e90254af3eff61335e3a9f96232efa85b845fae7c6089c311235e85bfc26",
+      "published_sha256": "1139e90254af3eff61335e3a9f96232efa85b845fae7c6089c311235e85bfc26",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/run_prediction_queue.py",
+      "archive_member": "fixed_comparison/run_prediction_queue.py",
+      "original_sha256": "e630f7ee77c38b419a03ad22bd611e329d030c8bffb5504125e7b966617edcf7",
+      "published_sha256": "e630f7ee77c38b419a03ad22bd611e329d030c8bffb5504125e7b966617edcf7",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/run_selection_queue.py",
+      "archive_member": "fixed_comparison/run_selection_queue.py",
+      "original_sha256": "12447cae50e4a0904e8bf95ea12c11552d36d7a1cb28722628a6e311d5be4c57",
+      "published_sha256": "12447cae50e4a0904e8bf95ea12c11552d36d7a1cb28722628a6e311d5be4c57",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/safe_checkpoint.py",
+      "archive_member": "fixed_comparison/safe_checkpoint.py",
+      "original_sha256": "75e769bd60c3c821cd164be9892d4984ee3f30e842ca488e45aeb968094b4a37",
+      "published_sha256": "75e769bd60c3c821cd164be9892d4984ee3f30e842ca488e45aeb968094b4a37",
+      "modified": false
+    },
+    {
+      "file": "source/fixed_comparison/scalar_outcomes.py",
+      "archive_member": "fixed_comparison/scalar_outcomes.py",
+      "original_sha256": "8cf66a7612b23b7d4c8b10db5413b367adb79d12667542f8bca31b84e0b86aad",
+      "published_sha256": "8cf66a7612b23b7d4c8b10db5413b367adb79d12667542f8bca31b84e0b86aad",
+      "modified": false
+    },
+    {
+      "file": "source/recovered_preparation/prepare_local_original.py",
+      "archive_member": "recovered_preparation/prepare_local_original.py",
+      "original_sha256": "4297893eb2a7755dc605d2126f24cf9aa7617fd926b2261965d1eb72e8951aca",
+      "published_sha256": "4297893eb2a7755dc605d2126f24cf9aa7617fd926b2261965d1eb72e8951aca",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/appraise_common_development.py",
+      "archive_member": "training_and_development/appraise_common_development.py",
+      "original_sha256": "865aa717fa9cee275421ffee4b4021641683117ef999a16a956070434d625fde",
+      "published_sha256": "865aa717fa9cee275421ffee4b4021641683117ef999a16a956070434d625fde",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/approve_seed_postprocess_execution.py",
+      "archive_member": "training_and_development/approve_seed_postprocess_execution.py",
+      "original_sha256": "daf6d1a45551b2e1d08ef7fb0f36bf9932315481ac31620aa649319138f8a523",
+      "published_sha256": "daf6d1a45551b2e1d08ef7fb0f36bf9932315481ac31620aa649319138f8a523",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/approve_seed_postprocess_v2.py",
+      "archive_member": "training_and_development/approve_seed_postprocess_v2.py",
+      "original_sha256": "c18ed458f6a383e75d9b36dd40b1900b9abbcf69e306f6336632cbad9d3ce989",
+      "published_sha256": "c18ed458f6a383e75d9b36dd40b1900b9abbcf69e306f6336632cbad9d3ce989",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/approve_seed_spatial_revision.py",
+      "archive_member": "training_and_development/approve_seed_spatial_revision.py",
+      "original_sha256": "e28e357e03f5482dd71f90147e73e89f11a0aa6faece132f74be6db6537baf95",
+      "published_sha256": "e28e357e03f5482dd71f90147e73e89f11a0aa6faece132f74be6db6537baf95",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/approve_seed_spatial_v2.py",
+      "archive_member": "training_and_development/approve_seed_spatial_v2.py",
+      "original_sha256": "c16f0113e57c873fe5a960cbda6aa5621ebde1a486f185a9ef51a10c9dbfd72b",
+      "published_sha256": "c16f0113e57c873fe5a960cbda6aa5621ebde1a486f185a9ef51a10c9dbfd72b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/archive_code.py",
+      "archive_member": "training_and_development/archive_code.py",
+      "original_sha256": "9c70d58c1516050e84ab5d60433b19cfa62824b26fe3573a8bb742ef7d339152",
+      "published_sha256": "9c70d58c1516050e84ab5d60433b19cfa62824b26fe3573a8bb742ef7d339152",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_common_bound_consistency.py",
+      "archive_member": "training_and_development/audit_common_bound_consistency.py",
+      "original_sha256": "6b986367f9dc5ddc66f63baa26c408201110db21e39f9cb77e9bc2f9f6e3e183",
+      "published_sha256": "6b986367f9dc5ddc66f63baa26c408201110db21e39f9cb77e9bc2f9f6e3e183",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_completed_confirmation_report.py",
+      "archive_member": "training_and_development/audit_completed_confirmation_report.py",
+      "original_sha256": "106cde94fca04c2ac612bb7ec55bf8dad1b2eb615a87149972658b3025894381",
+      "published_sha256": "106cde94fca04c2ac612bb7ec55bf8dad1b2eb615a87149972658b3025894381",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_completed_seed_outputs.py",
+      "archive_member": "training_and_development/audit_completed_seed_outputs.py",
+      "original_sha256": "8f6b40757a919ee744b01f7a0e0aac619f05181a38a996d69fd5b9ba6a80aa1a",
+      "published_sha256": "8f6b40757a919ee744b01f7a0e0aac619f05181a38a996d69fd5b9ba6a80aa1a",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_completed_seed_outputs_v2.py",
+      "archive_member": "training_and_development/audit_completed_seed_outputs_v2.py",
+      "original_sha256": "a4e6367f0a4eaf66c24da13980c630f11b2b144b263b6af4aa074ed84153fb8c",
+      "published_sha256": "a4e6367f0a4eaf66c24da13980c630f11b2b144b263b6af4aa074ed84153fb8c",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_external_spatial_complete.py",
+      "archive_member": "training_and_development/audit_external_spatial_complete.py",
+      "original_sha256": "e5b0c858852d7c730f919a75f4361e4d9d516236302863ae35e09882464e067b",
+      "published_sha256": "e5b0c858852d7c730f919a75f4361e4d9d516236302863ae35e09882464e067b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_external_weeds_export.py",
+      "archive_member": "training_and_development/audit_external_weeds_export.py",
+      "original_sha256": "ddf1cb07483b8fc9d75a07f133f2b73e72f6fff11338f62968a9c02f142c4119",
+      "published_sha256": "00d51f4c540d358982a7d086da95da3ae000d03e2f8c2004d0041b5dd6910a61",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/audit_external_weeds_training.py",
+      "archive_member": "training_and_development/audit_external_weeds_training.py",
+      "original_sha256": "49d023f6e23079ad08034054845fd9397bb08c5db1fce2b3627595ae4c2ca807",
+      "published_sha256": "0aed13f5a04cddb6536c9822f16e24076a21fa0f4f38d14634f11b3b658ada43",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/audit_local_norm_gpu_diagnostic.py",
+      "archive_member": "training_and_development/audit_local_norm_gpu_diagnostic.py",
+      "original_sha256": "09df0dfc2bb8bfffc4346bea7ab5d531e0d243f5594482eb073097b7e8d85b00",
+      "published_sha256": "09df0dfc2bb8bfffc4346bea7ab5d531e0d243f5594482eb073097b7e8d85b00",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/audit_remaining_common_exports.py",
+      "archive_member": "training_and_development/audit_remaining_common_exports.py",
+      "original_sha256": "74798784f498d85bdc29465fcac8bb88f3791eacd0e6a5eaeaada8b92c5b645f",
+      "published_sha256": "a6d47fe22c1788bbefa7b0a0fcf8098012dea851c703f74797fb9cf8a579a898",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/audit_weedsgalore_groups.py",
+      "archive_member": "training_and_development/audit_weedsgalore_groups.py",
+      "original_sha256": "f56fac451b5ed652f20216b050f60213932a9859697d5a25ad130e62aa7a941f",
+      "published_sha256": "f56fac451b5ed652f20216b050f60213932a9859697d5a25ad130e62aa7a941f",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/build_external_weeds_spatial_report.py",
+      "archive_member": "training_and_development/build_external_weeds_spatial_report.py",
+      "original_sha256": "4bb248558ac2463ca77852d5db5edef94d273313fea601503e929730a24d3cff",
+      "published_sha256": "4bb248558ac2463ca77852d5db5edef94d273313fea601503e929730a24d3cff",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/build_full_common_management_report.py",
+      "archive_member": "training_and_development/build_full_common_management_report.py",
+      "original_sha256": "1ef236e253c4e81b6e4ec1001c99a2c2b8b5dc1e2dc8829323200414198dec26",
+      "published_sha256": "1ef236e253c4e81b6e4ec1001c99a2c2b8b5dc1e2dc8829323200414198dec26",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/build_internal_submission_review_bundle.py",
+      "archive_member": "training_and_development/build_internal_submission_review_bundle.py",
+      "original_sha256": "39e0919f900f7dc45ad5339c4abd3e17fdffd49a8c664f2999e02a27de9f2257",
+      "published_sha256": "39e0919f900f7dc45ad5339c4abd3e17fdffd49a8c664f2999e02a27de9f2257",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/build_main_tables_confirmation_v5.py",
+      "archive_member": "training_and_development/build_main_tables_confirmation_v5.py",
+      "original_sha256": "1d19d99fad706097402564fe7fc9d8b4a9525219b6897c4650d4dba66144d544",
+      "published_sha256": "1d19d99fad706097402564fe7fc9d8b4a9525219b6897c4650d4dba66144d544",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_all_common_upper_independent.py",
+      "archive_member": "training_and_development/check_all_common_upper_independent.py",
+      "original_sha256": "9330073d2ad9938b29cbd068a6a43f98ff15fa3cf64a4832af65a066c728f512",
+      "published_sha256": "9330073d2ad9938b29cbd068a6a43f98ff15fa3cf64a4832af65a066c728f512",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_amp_step.py",
+      "archive_member": "training_and_development/check_amp_step.py",
+      "original_sha256": "c953e626a21e7b80312fcf50d94038bd21070c1c418de2fc6cb0b18329840ba7",
+      "published_sha256": "c953e626a21e7b80312fcf50d94038bd21070c1c418de2fc6cb0b18329840ba7",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_bound_closure_independent.py",
+      "archive_member": "training_and_development/check_bound_closure_independent.py",
+      "original_sha256": "14e3ac6715715258fecd905d6750c8287240df7f41db3805969c3cd0c09b78fb",
+      "published_sha256": "14e3ac6715715258fecd905d6750c8287240df7f41db3805969c3cd0c09b78fb",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_all_parameter_gradients.py",
+      "archive_member": "training_and_development/check_common_all_parameter_gradients.py",
+      "original_sha256": "b9ce8102155b69bb84428275f6629915082cf526e966f3bd4673a1b225c15ab3",
+      "published_sha256": "b9ce8102155b69bb84428275f6629915082cf526e966f3bd4673a1b225c15ab3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_amp_independent_cpu.py",
+      "archive_member": "training_and_development/check_common_amp_independent_cpu.py",
+      "original_sha256": "32c5ee6bedad9755fafbb2b3ed139e6c07f1ef5669daa4f0232afc1dc827f8f0",
+      "published_sha256": "32c5ee6bedad9755fafbb2b3ed139e6c07f1ef5669daa4f0232afc1dc827f8f0",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_export_guards.py",
+      "archive_member": "training_and_development/check_common_export_guards.py",
+      "original_sha256": "d9b9f6813d52b9a26a5e4bce0553fa6cda5f7c1d9a2a10dc3f7c57c825e98aa3",
+      "published_sha256": "d9b9f6813d52b9a26a5e4bce0553fa6cda5f7c1d9a2a10dc3f7c57c825e98aa3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_management_v2.py",
+      "archive_member": "training_and_development/check_common_management_v2.py",
+      "original_sha256": "586af8619e0dbac0faf3a0118fad070af96b77287cc0c5f8ad21f8b025a1c73c",
+      "published_sha256": "586af8619e0dbac0faf3a0118fad070af96b77287cc0c5f8ad21f8b025a1c73c",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_rm_results_independent.py",
+      "archive_member": "training_and_development/check_common_rm_results_independent.py",
+      "original_sha256": "6da85e495cca03c4d858d6cfc782e7642fd8cc83acbbd5b9433213c937689cc1",
+      "published_sha256": "6da85e495cca03c4d858d6cfc782e7642fd8cc83acbbd5b9433213c937689cc1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_common_rm_v2_independent.py",
+      "archive_member": "training_and_development/check_common_rm_v2_independent.py",
+      "original_sha256": "e6efd493770b81a90a49498930633adb2d93b568d51128d0a27d2409dac5626b",
+      "published_sha256": "e26542b4ca1d3b2b15145c2bc28fe554069f5e9acb681ba56c58a6afb425f593",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/check_completed_confirmation_report_auditor.py",
+      "archive_member": "training_and_development/check_completed_confirmation_report_auditor.py",
+      "original_sha256": "4d06d5c4330033ca0d3af19ebf8486a27c01a28db473e0bd0c51781407a29318",
+      "published_sha256": "4d06d5c4330033ca0d3af19ebf8486a27c01a28db473e0bd0c51781407a29318",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_confirmation_external_scalar_audit.py",
+      "archive_member": "training_and_development/check_confirmation_external_scalar_audit.py",
+      "original_sha256": "6393560d2902d8b819f643b7e2c0e1349a070ef9d4366594e762902eac4e27c3",
+      "published_sha256": "6393560d2902d8b819f643b7e2c0e1349a070ef9d4366594e762902eac4e27c3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_confirmation_local_output_review.py",
+      "archive_member": "training_and_development/check_confirmation_local_output_review.py",
+      "original_sha256": "7bdc02848e822c9a77e91ddba9f20c88c786d05f301b62e1a247e7dfc356edc6",
+      "published_sha256": "7bdc02848e822c9a77e91ddba9f20c88c786d05f301b62e1a247e7dfc356edc6",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_confirmation_spatial_example.py",
+      "archive_member": "training_and_development/check_confirmation_spatial_example.py",
+      "original_sha256": "ca38690e47b30401b5fa995c0c93b51929c2a9e6319f833bae32bf26418ddc6d",
+      "published_sha256": "ca38690e47b30401b5fa995c0c93b51929c2a9e6319f833bae32bf26418ddc6d",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_confirmation_stage_grants.py",
+      "archive_member": "training_and_development/check_confirmation_stage_grants.py",
+      "original_sha256": "a598f64a242aa2b6aa8765c2eb91be5ebafb83a9d62482d9dc597ee26dc49ec8",
+      "published_sha256": "a598f64a242aa2b6aa8765c2eb91be5ebafb83a9d62482d9dc597ee26dc49ec8",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_conservative_resample.py",
+      "archive_member": "training_and_development/check_conservative_resample.py",
+      "original_sha256": "cadbbba16dc2319913f9c928932e0b2c9a4e65b7a5421c6d2b6f7e0951576886",
+      "published_sha256": "cadbbba16dc2319913f9c928932e0b2c9a4e65b7a5421c6d2b6f7e0951576886",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_external_weeds_gpu.py",
+      "archive_member": "training_and_development/check_external_weeds_gpu.py",
+      "original_sha256": "eb6044a6b5f1a52ff3efcdd1d15e1475960478435e0d78c4073481ebea552be3",
+      "published_sha256": "eb6044a6b5f1a52ff3efcdd1d15e1475960478435e0d78c4073481ebea552be3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_external_weeds_spatial.py",
+      "archive_member": "training_and_development/check_external_weeds_spatial.py",
+      "original_sha256": "8f350268237faedfccc3c0c161de1951309e9d63e64f25fb61dc99052abff1b9",
+      "published_sha256": "8f350268237faedfccc3c0c161de1951309e9d63e64f25fb61dc99052abff1b9",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_failed_v2_sealed_layers.py",
+      "archive_member": "training_and_development/check_failed_v2_sealed_layers.py",
+      "original_sha256": "0a4fd4dfd4161cc0659ab10ec40b66c61fc5c60ed154e4f147fad0476d0367ec",
+      "published_sha256": "0a4fd4dfd4161cc0659ab10ec40b66c61fc5c60ed154e4f147fad0476d0367ec",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_full24_reviewer.py",
+      "archive_member": "training_and_development/check_full24_reviewer.py",
+      "original_sha256": "32febaff134300b49f5a79308f1c747a1587a0aec2d4de85bd4c150179c6fbea",
+      "published_sha256": "32febaff134300b49f5a79308f1c747a1587a0aec2d4de85bd4c150179c6fbea",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_full8_central_independent.py",
+      "archive_member": "training_and_development/check_full8_central_independent.py",
+      "original_sha256": "08d2254a6c1beb9551ee737831f249739f5316005e3fb5940adf62a32315f2a1",
+      "published_sha256": "08d2254a6c1beb9551ee737831f249739f5316005e3fb5940adf62a32315f2a1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_geo_management_independent.py",
+      "archive_member": "training_and_development/check_geo_management_independent.py",
+      "original_sha256": "cb10460946c3963307797245feda38aa1348757c3aa86c0c54a323fe7ecd191f",
+      "published_sha256": "cb10460946c3963307797245feda38aa1348757c3aa86c0c54a323fe7ecd191f",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_internal_submission_bundle.py",
+      "archive_member": "training_and_development/check_internal_submission_bundle.py",
+      "original_sha256": "fc400d6e31c6800f0beb0ee6e271cd29f948e1a3414365c38cfe24d2e4c4828d",
+      "published_sha256": "fc400d6e31c6800f0beb0ee6e271cd29f948e1a3414365c38cfe24d2e4c4828d",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_local_output_auditor_v2.py",
+      "archive_member": "training_and_development/check_local_output_auditor_v2.py",
+      "original_sha256": "ed317f65041f5d680f4baa56309ae1e44b813ded3abcb9176c19be60070af609",
+      "published_sha256": "ed317f65041f5d680f4baa56309ae1e44b813ded3abcb9176c19be60070af609",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_local_seed_export.py",
+      "archive_member": "training_and_development/check_local_seed_export.py",
+      "original_sha256": "53b6269c27e4fcb752c4868b82ecd6d9ae3c2a37ab2aac74e7eaee3ae144f726",
+      "published_sha256": "53b6269c27e4fcb752c4868b82ecd6d9ae3c2a37ab2aac74e7eaee3ae144f726",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_local_seed_export_lifecycle.py",
+      "archive_member": "training_and_development/check_local_seed_export_lifecycle.py",
+      "original_sha256": "b699710e59c19c424322879b71f1465eea8890a02f610f38b3196daaa736d8dc",
+      "published_sha256": "af29cac5916a556fff4e182968cdddcfa6daab6b8d8737229b8faea044689b4e",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/check_local_seed_export_lifecycle_v2.py",
+      "archive_member": "training_and_development/check_local_seed_export_lifecycle_v2.py",
+      "original_sha256": "4e7273053135e7180e74dd0f5c2f43598e755e3da5a7a8051929fddae56fabd9",
+      "published_sha256": "c39aa3f0abb471c705dce4ef14f45e174e1ebf26d5e3e641de53d94924e680ac",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/check_local_seed_export_v2.py",
+      "archive_member": "training_and_development/check_local_seed_export_v2.py",
+      "original_sha256": "c4555229001dafeec6dfcb0a4a12d0ec2ab428179535bc9de9e690069164dd43",
+      "published_sha256": "82012081a2f6d6fac3a8fefe17c4267c088cae838cc15ebd25fa29d4b655cf07",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/check_prefix_auc_supplement_independent.py",
+      "archive_member": "training_and_development/check_prefix_auc_supplement_independent.py",
+      "original_sha256": "3a46fad0e222b0405661e3c96020390cd375c8735b1a5ec9e0b0113e6e55dc4d",
+      "published_sha256": "3a46fad0e222b0405661e3c96020390cd375c8735b1a5ec9e0b0113e6e55dc4d",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_prepare_confirmation_readiness.py",
+      "archive_member": "training_and_development/check_prepare_confirmation_readiness.py",
+      "original_sha256": "b34fa9fa44f4f9956346b80472640d2a15923fd9f8a9b04486432c951ce99cb6",
+      "published_sha256": "b34fa9fa44f4f9956346b80472640d2a15923fd9f8a9b04486432c951ce99cb6",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_protocol.py",
+      "archive_member": "training_and_development/check_protocol.py",
+      "original_sha256": "d1cee88874e2e0b216efd266fa6d5ee64a02d89f5d53b9e3e986f669db64176b",
+      "published_sha256": "d1cee88874e2e0b216efd266fa6d5ee64a02d89f5d53b9e3e986f669db64176b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_rm_policy_independent.py",
+      "archive_member": "training_and_development/check_rm_policy_independent.py",
+      "original_sha256": "8e0544da716e7d9b81b17d4d3e4e23295a48b38a8fbe7d8fe8a134641bdc85eb",
+      "published_sha256": "8e0544da716e7d9b81b17d4d3e4e23295a48b38a8fbe7d8fe8a134641bdc85eb",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_rm_results_independent.py",
+      "archive_member": "training_and_development/check_rm_results_independent.py",
+      "original_sha256": "15294089577ea14ba75a9e84758bcc70e47dfba3b15f4f2fa2d28fa92ccefe62",
+      "published_sha256": "15294089577ea14ba75a9e84758bcc70e47dfba3b15f4f2fa2d28fa92ccefe62",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_seed_stability_summary_compatibility.py",
+      "archive_member": "training_and_development/check_seed_stability_summary_compatibility.py",
+      "original_sha256": "e264c6dfd4b0562089e0a90aa4fd33991e90a3db6649f5fbee44b1a3de9e7837",
+      "published_sha256": "e264c6dfd4b0562089e0a90aa4fd33991e90a3db6649f5fbee44b1a3de9e7837",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/check_train_common.py",
+      "archive_member": "training_and_development/check_train_common.py",
+      "original_sha256": "b153531b3f8811638e3325b160ae1572b18988a9d37b1fac45f7366f3f54da1c",
+      "published_sha256": "b153531b3f8811638e3325b160ae1572b18988a9d37b1fac45f7366f3f54da1c",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/conservative_resample.py",
+      "archive_member": "training_and_development/conservative_resample.py",
+      "original_sha256": "bd1b0c83f52b5dc7c7a10b0edd2b5d5f950a5498f6400afc4616e1d87b705bad",
+      "published_sha256": "bd1b0c83f52b5dc7c7a10b0edd2b5d5f950a5498f6400afc4616e1d87b705bad",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/diagnose_predicted_knapsack.py",
+      "archive_member": "training_and_development/diagnose_predicted_knapsack.py",
+      "original_sha256": "f45f3210bbef82aa3e0dcfcec58a2b06d2704164c50417819d982660c6674750",
+      "published_sha256": "f45f3210bbef82aa3e0dcfcec58a2b06d2704164c50417819d982660c6674750",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/evaluate_common_management.py",
+      "archive_member": "training_and_development/evaluate_common_management.py",
+      "original_sha256": "7682bbd5dba05606a62abad43d4e2178b4b7cfd8f2beae6fd06f0351db78f05e",
+      "published_sha256": "7682bbd5dba05606a62abad43d4e2178b4b7cfd8f2beae6fd06f0351db78f05e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/evaluate_common_management_v2.py",
+      "archive_member": "training_and_development/evaluate_common_management_v2.py",
+      "original_sha256": "99315d78bd31e721f024601227e032291962075336ed65a7e9bd157caf643d25",
+      "published_sha256": "99315d78bd31e721f024601227e032291962075336ed65a7e9bd157caf643d25",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/evaluate_external_weeds_spatial.py",
+      "archive_member": "training_and_development/evaluate_external_weeds_spatial.py",
+      "original_sha256": "af13294cdff8e5da059cb4f8f3bec4cb4b0c2f7c24c05226278724a8a79e1810",
+      "published_sha256": "af13294cdff8e5da059cb4f8f3bec4cb4b0c2f7c24c05226278724a8a79e1810",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/evaluate_local_seed_management.py",
+      "archive_member": "training_and_development/evaluate_local_seed_management.py",
+      "original_sha256": "bac32dcaf83c1ecf0e7b7f6bb702c5ac1c3ff6bbea59a2839858b207582336c0",
+      "published_sha256": "bac32dcaf83c1ecf0e7b7f6bb702c5ac1c3ff6bbea59a2839858b207582336c0",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/evaluate_local_seed_management_v2.py",
+      "archive_member": "training_and_development/evaluate_local_seed_management_v2.py",
+      "original_sha256": "43ad50a4128ccec43e9d57f2d618f7e30b8084a029539c2de3232891bff04e66",
+      "published_sha256": "02d80452c39215b16b972eaadcc911d04e1a4b9e291d4c6bbe040d47bd8fbce9",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/evaluate_management.py",
+      "archive_member": "training_and_development/evaluate_management.py",
+      "original_sha256": "29d7b8a8bd7e6762cdae18bde2d491ecbe9cd459bf401ef084a9f827e990ff8d",
+      "published_sha256": "29d7b8a8bd7e6762cdae18bde2d491ecbe9cd459bf401ef084a9f827e990ff8d",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/export_common_validation.py",
+      "archive_member": "training_and_development/export_common_validation.py",
+      "original_sha256": "56319f148fadc69b0cdc88c3c44f043ba020e812f2f4f919480304fe155dbecc",
+      "published_sha256": "56319f148fadc69b0cdc88c3c44f043ba020e812f2f4f919480304fe155dbecc",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/export_external_weeds_validation.py",
+      "archive_member": "training_and_development/export_external_weeds_validation.py",
+      "original_sha256": "bcb973609e6d8c2e1bfa2a6afb0f721b92db2efd5d3d6fe906be421b0aa591df",
+      "published_sha256": "bcb973609e6d8c2e1bfa2a6afb0f721b92db2efd5d3d6fe906be421b0aa591df",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/export_local_seed_validation.py",
+      "archive_member": "training_and_development/export_local_seed_validation.py",
+      "original_sha256": "152b8a6b6ff23a3eab29cfddec8ac585ebeb32f9dc70c589f83de79f0e86de81",
+      "published_sha256": "152b8a6b6ff23a3eab29cfddec8ac585ebeb32f9dc70c589f83de79f0e86de81",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/export_local_seed_validation_v2.py",
+      "archive_member": "training_and_development/export_local_seed_validation_v2.py",
+      "original_sha256": "ca419376cfb1e9841abbb79314e07a4a66b5a7b9d3b034d33a0beb6d94385860",
+      "published_sha256": "b320ab9e914b71f0c5f3f0dfd702ce345dc283a1dd2b352daf3e67f2a373f16c",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/export_validation_maps.py",
+      "archive_member": "training_and_development/export_validation_maps.py",
+      "original_sha256": "576e6c8a38899f2bac0f2253d1de2d2fd4442ca11e9e5a9de121e44f15990adc",
+      "published_sha256": "576e6c8a38899f2bac0f2253d1de2d2fd4442ca11e9e5a9de121e44f15990adc",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/export_validation_predictions.py",
+      "archive_member": "training_and_development/export_validation_predictions.py",
+      "original_sha256": "b60c5b3575744df4896212342d0293140b2d5d06dc74b269dfb4f4c0ad0a8316",
+      "published_sha256": "b60c5b3575744df4896212342d0293140b2d5d06dc74b269dfb4f4c0ad0a8316",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/extract_narrative_values_v5.py",
+      "archive_member": "training_and_development/extract_narrative_values_v5.py",
+      "original_sha256": "14b3168f4f82e730391aeb14715e8a2482f91e787ff061b1b21c14825feaf589",
+      "published_sha256": "14b3168f4f82e730391aeb14715e8a2482f91e787ff061b1b21c14825feaf589",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/finalize_confirmation_metadata.py",
+      "archive_member": "training_and_development/finalize_confirmation_metadata.py",
+      "original_sha256": "4d3954ee2e38acd1e3183f5f9a943028f96c9dd708ef9f664f4eb6b72b7b6156",
+      "published_sha256": "4d3954ee2e38acd1e3183f5f9a943028f96c9dd708ef9f664f4eb6b72b7b6156",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/finalize_dataset_examples_v6.py",
+      "archive_member": "training_and_development/finalize_dataset_examples_v6.py",
+      "original_sha256": "1b068dd332f731d7f1e1320f0ba7f795de4fd1931fa56cd025ab77e5a42dd1a2",
+      "published_sha256": "1b068dd332f731d7f1e1320f0ba7f795de4fd1931fa56cd025ab77e5a42dd1a2",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/freeze_external_spatial_protocol.py",
+      "archive_member": "training_and_development/freeze_external_spatial_protocol.py",
+      "original_sha256": "d06865e3e9eb84fefd5c2778b44708a1a9ea94fa451ba9aecfa16abd87226843",
+      "published_sha256": "d06865e3e9eb84fefd5c2778b44708a1a9ea94fa451ba9aecfa16abd87226843",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/geo_management.py",
+      "archive_member": "training_and_development/geo_management.py",
+      "original_sha256": "16c6fb38e1c2c1c9c5ea9f5f25db317d0fa021505631ddef9f07dea528549d8f",
+      "published_sha256": "16c6fb38e1c2c1c9c5ea9f5f25db317d0fa021505631ddef9f07dea528549d8f",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/integrate_dataset_examples_v6.py",
+      "archive_member": "training_and_development/integrate_dataset_examples_v6.py",
+      "original_sha256": "07d026a64730bcd9cc10c39d9137f1e7de9773cc3b767a6c39ff8a29756544f3",
+      "published_sha256": "07d026a64730bcd9cc10c39d9137f1e7de9773cc3b767a6c39ff8a29756544f3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/integrate_final_manuscript_v5.py",
+      "archive_member": "training_and_development/integrate_final_manuscript_v5.py",
+      "original_sha256": "685a34cdba9452774d951d7dda5804595c7c0baf5bef2dec89a16506de193b71",
+      "published_sha256": "685a34cdba9452774d951d7dda5804595c7c0baf5bef2dec89a16506de193b71",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/models_common.py",
+      "archive_member": "training_and_development/models_common.py",
+      "original_sha256": "f33450f83340039224e19f5bb737650270140cb08671323042e009f64acb8614",
+      "published_sha256": "f33450f83340039224e19f5bb737650270140cb08671323042e009f64acb8614",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_allocation_framework.py",
+      "archive_member": "training_and_development/plot_allocation_framework.py",
+      "original_sha256": "6b9a44190672a5d1685f877fa4cbc0724d3d5258b44c67b82f81f141eb3a6910",
+      "published_sha256": "6b9a44190672a5d1685f877fa4cbc0724d3d5258b44c67b82f81f141eb3a6910",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_confirmation_reports.py",
+      "archive_member": "training_and_development/plot_confirmation_reports.py",
+      "original_sha256": "db29170c8459575a354c640050a41601dc93d28b22a8c10f60338ec2eeb02d99",
+      "published_sha256": "db29170c8459575a354c640050a41601dc93d28b22a8c10f60338ec2eeb02d99",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_confirmation_spatial_example.py",
+      "archive_member": "training_and_development/plot_confirmation_spatial_example.py",
+      "original_sha256": "32051d9e5e6229b99c09835f48ec6d9aaeda004199e45b7d6537141c878e7505",
+      "published_sha256": "32051d9e5e6229b99c09835f48ec6d9aaeda004199e45b7d6537141c878e7505",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_dataset_examples_v6.py",
+      "archive_member": "training_and_development/plot_dataset_examples_v6.py",
+      "original_sha256": "aa05814344350d89c04d0ec2e7816bd8993de0cdf9a2dd805352fe8785c2f6fd",
+      "published_sha256": "aa05814344350d89c04d0ec2e7816bd8993de0cdf9a2dd805352fe8785c2f6fd",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_dataset_examples_v6b.py",
+      "archive_member": "training_and_development/plot_dataset_examples_v6b.py",
+      "original_sha256": "1a0f1241134ed3359161d12981b9dd164ca09d7aa517bdba17c57739af6195d2",
+      "published_sha256": "1a0f1241134ed3359161d12981b9dd164ca09d7aa517bdba17c57739af6195d2",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_development.py",
+      "archive_member": "training_and_development/plot_development.py",
+      "original_sha256": "cad3ea28cba7348eb8eb7c61d49d8eba0acb00c8ad3be80604a0a9d040079da9",
+      "published_sha256": "cad3ea28cba7348eb8eb7c61d49d8eba0acb00c8ad3be80604a0a9d040079da9",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_external_weeds_training.py",
+      "archive_member": "training_and_development/plot_external_weeds_training.py",
+      "original_sha256": "fec81d84eec7a01b8a9c828fc868ead9747e3af5269e9ae315c4622e19fffb0b",
+      "published_sha256": "fec81d84eec7a01b8a9c828fc868ead9747e3af5269e9ae315c4622e19fffb0b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_full24_seed_results.py",
+      "archive_member": "training_and_development/plot_full24_seed_results.py",
+      "original_sha256": "28430b7973e92d4d110341cfb1b1a8f677d39ae998d29e505cf9f6777a2d5aea",
+      "published_sha256": "28430b7973e92d4d110341cfb1b1a8f677d39ae998d29e505cf9f6777a2d5aea",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_full_common_management.py",
+      "archive_member": "training_and_development/plot_full_common_management.py",
+      "original_sha256": "aab78f46751a16c0cad5e50c83cb5bb378f0a011df81c7bdc55368d45bc1d172",
+      "published_sha256": "aab78f46751a16c0cad5e50c83cb5bb378f0a011df81c7bdc55368d45bc1d172",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_local_common_publication_v1.py",
+      "archive_member": "training_and_development/plot_local_common_publication_v1.py",
+      "original_sha256": "4a99f81e2ce775c748d8931ecc4b474ef6f32f38a11bfdb4d23e62b020e67641",
+      "published_sha256": "4a99f81e2ce775c748d8931ecc4b474ef6f32f38a11bfdb4d23e62b020e67641",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_management.py",
+      "archive_member": "training_and_development/plot_management.py",
+      "original_sha256": "a46b0c18a4cb9e322a6f6dfb593ba501b22bab90cb21feebb8e7a538fc00b7f8",
+      "published_sha256": "a46b0c18a4cb9e322a6f6dfb593ba501b22bab90cb21feebb8e7a538fc00b7f8",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/plot_rm_policy_diagnostic.py",
+      "archive_member": "training_and_development/plot_rm_policy_diagnostic.py",
+      "original_sha256": "e591e766abbe6d7249d1fa62313ff71c00e91ddf32cb3bc1429ed481bc834648",
+      "published_sha256": "e591e766abbe6d7249d1fa62313ff71c00e91ddf32cb3bc1429ed481bc834648",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_cofly.py",
+      "archive_member": "training_and_development/prepare_cofly.py",
+      "original_sha256": "162241292074ff92468e0f123d3739413406a7cfa8a3c6d6546edb39146019a1",
+      "published_sha256": "162241292074ff92468e0f123d3739413406a7cfa8a3c6d6546edb39146019a1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_confirmation_external_arithmetic.py",
+      "archive_member": "training_and_development/prepare_confirmation_external_arithmetic.py",
+      "original_sha256": "eba5c182a23aeed6445edff0d1220b050574229fe7df2935c11828cac5006c69",
+      "published_sha256": "eba5c182a23aeed6445edff0d1220b050574229fe7df2935c11828cac5006c69",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_confirmation_readiness.py",
+      "archive_member": "training_and_development/prepare_confirmation_readiness.py",
+      "original_sha256": "586c9b6b6a4ee645cc7f80d44bc8b4d9a163b5e3bc4e40494f2dc647b4cf66e1",
+      "published_sha256": "586c9b6b6a4ee645cc7f80d44bc8b4d9a163b5e3bc4e40494f2dc647b4cf66e1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_confirmation_stage_grants.py",
+      "archive_member": "training_and_development/prepare_confirmation_stage_grants.py",
+      "original_sha256": "f87317b1c4174ce4181b166d9a9300b07907eac23bbe7eee9aebac148071748f",
+      "published_sha256": "c66d5933577cdf7bd39ec9c3bc87691d3693b1c728eb0816a5bc4b88c418dd39",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/prepare_convnextv2_vendor.py",
+      "archive_member": "training_and_development/prepare_convnextv2_vendor.py",
+      "original_sha256": "539e9b6ecef1c34ce0d2aa81d0a72585b22756be57ddaee28bcbfae4d9e1031e",
+      "published_sha256": "539e9b6ecef1c34ce0d2aa81d0a72585b22756be57ddaee28bcbfae4d9e1031e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_external_weeds_gpu_receipt.py",
+      "archive_member": "training_and_development/prepare_external_weeds_gpu_receipt.py",
+      "original_sha256": "2859a9e51c31db6158b6801c5476808d9e28aeab0e669e07726769eeb16f3482",
+      "published_sha256": "2859a9e51c31db6158b6801c5476808d9e28aeab0e669e07726769eeb16f3482",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_final_internal_bundle_plan_v5.py",
+      "archive_member": "training_and_development/prepare_final_internal_bundle_plan_v5.py",
+      "original_sha256": "afe94f02b18c5c844ba8ffac0423fb6d776e4beb2b8cca4a93dd3e8e6c2da2cc",
+      "published_sha256": "afe94f02b18c5c844ba8ffac0423fb6d776e4beb2b8cca4a93dd3e8e6c2da2cc",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_full24_summary_review.py",
+      "archive_member": "training_and_development/prepare_full24_summary_review.py",
+      "original_sha256": "62fcbe6ab6ab61bbe5201dee3cdf72749683cd07bc1e1b744415ae45781d1657",
+      "published_sha256": "62fcbe6ab6ab61bbe5201dee3cdf72749683cd07bc1e1b744415ae45781d1657",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_local.py",
+      "archive_member": "training_and_development/prepare_local.py",
+      "original_sha256": "2c3fd71fcd2c329eee72d01c4edcdccbc5fa98f2f02b596aa62edaacb5d5b02d",
+      "published_sha256": "2c3fd71fcd2c329eee72d01c4edcdccbc5fa98f2f02b596aa62edaacb5d5b02d",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_local_seed_stability.py",
+      "archive_member": "training_and_development/prepare_local_seed_stability.py",
+      "original_sha256": "a64aee33b646511601bad20613e59b31b7c2dce23a174f4ef6f492d96ef74015",
+      "published_sha256": "a64aee33b646511601bad20613e59b31b7c2dce23a174f4ef6f492d96ef74015",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_seed_acceptance_index.py",
+      "archive_member": "training_and_development/prepare_seed_acceptance_index.py",
+      "original_sha256": "363928e7ea326c3f635ac876904f39faa8d669c6fe24f950926dc16b6e3fcf0b",
+      "published_sha256": "363928e7ea326c3f635ac876904f39faa8d669c6fe24f950926dc16b6e3fcf0b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/prepare_seed_postprocess_protocol.py",
+      "archive_member": "training_and_development/prepare_seed_postprocess_protocol.py",
+      "original_sha256": "57217da36662c9cc4214fcda2cf64d165278d17e1cccda703778f75c47ffcb95",
+      "published_sha256": "57217da36662c9cc4214fcda2cf64d165278d17e1cccda703778f75c47ffcb95",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/recover_common_policy.py",
+      "archive_member": "training_and_development/recover_common_policy.py",
+      "original_sha256": "7fdc3fac309b8b6e98d7c53934ad676fc305670643fd933f5d762443ca550225",
+      "published_sha256": "7fdc3fac309b8b6e98d7c53934ad676fc305670643fd933f5d762443ca550225",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/recover_local_output_auditor_v2_once.py",
+      "archive_member": "training_and_development/recover_local_output_auditor_v2_once.py",
+      "original_sha256": "c68e129333531e9e3b592f4570350b6bef49a3e283afd8a6ed253eff59693076",
+      "published_sha256": "c27c2d63c349676be59cb8cc955c41bda5fe4987bb728461bcbbe63798c34290",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/refresh_development_state.py",
+      "archive_member": "training_and_development/refresh_development_state.py",
+      "original_sha256": "f6a9e3f0a77554e55ef6ebf40ba0a3bc5cdd3ae027988780aba3224addb85a06",
+      "published_sha256": "416ec2c569650354883d3ba9862b518991bc350a01cc594eb3ddbf6bc27d6a81",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/refresh_external_index.py",
+      "archive_member": "training_and_development/refresh_external_index.py",
+      "original_sha256": "6392150b0c41f0b10008a508942a12286bc21c0ec6ed8c28fce4db8fcf2d3fa9",
+      "published_sha256": "6392150b0c41f0b10008a508942a12286bc21c0ec6ed8c28fce4db8fcf2d3fa9",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/refresh_full8_index.py",
+      "archive_member": "training_and_development/refresh_full8_index.py",
+      "original_sha256": "ff83c80dca2f03cedb51390ea0605323dd8cdee1758b24f4519316e3ac88d8ce",
+      "published_sha256": "ff83c80dca2f03cedb51390ea0605323dd8cdee1758b24f4519316e3ac88d8ce",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/report_full24_key_findings.py",
+      "archive_member": "training_and_development/report_full24_key_findings.py",
+      "original_sha256": "11d9057fd4bfe1e4c43039b2a61a549512daf4910ca7a37422cf11721d367b7b",
+      "published_sha256": "11d9057fd4bfe1e4c43039b2a61a549512daf4910ca7a37422cf11721d367b7b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/resume_recovered_policy_tables.py",
+      "archive_member": "training_and_development/resume_recovered_policy_tables.py",
+      "original_sha256": "f3e5366ae359901997cfc204fe47ffc0fb574fff79d55da866b7e96b7ed3f288",
+      "published_sha256": "f3e5366ae359901997cfc204fe47ffc0fb574fff79d55da866b7e96b7ed3f288",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_checkpoint_builder.py",
+      "archive_member": "training_and_development/review_checkpoint_builder.py",
+      "original_sha256": "aa5aef60903c050e184ba558009e2c6dd4933c024fb65410c141b1322331be11",
+      "published_sha256": "aa5aef60903c050e184ba558009e2c6dd4933c024fb65410c141b1322331be11",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_common_amp_plan.py",
+      "archive_member": "training_and_development/review_common_amp_plan.py",
+      "original_sha256": "e0c2f1562b32a8175ea1b0f652cbe79658305010542f4272c3bf6a828ee1e361",
+      "published_sha256": "e0c2f1562b32a8175ea1b0f652cbe79658305010542f4272c3bf6a828ee1e361",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_common_convnext_scalar_appendix.py",
+      "archive_member": "training_and_development/review_common_convnext_scalar_appendix.py",
+      "original_sha256": "8c081ce8432b1e97bf13255ddb330cd8c531512ba2a86f5228d0b063b55d79e1",
+      "published_sha256": "8c081ce8432b1e97bf13255ddb330cd8c531512ba2a86f5228d0b063b55d79e1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_common_management_after_fix.py",
+      "archive_member": "training_and_development/review_common_management_after_fix.py",
+      "original_sha256": "95e588fceba2b3952aa1d3ef6e08f626dcaabfc2bce28f8d48244528d89178a1",
+      "published_sha256": "95e588fceba2b3952aa1d3ef6e08f626dcaabfc2bce28f8d48244528d89178a1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_common_management_entry.py",
+      "archive_member": "training_and_development/review_common_management_entry.py",
+      "original_sha256": "98bfa6f3032830948dc288d3404587e62c1cac5281519b3b2641414101efae3c",
+      "published_sha256": "98bfa6f3032830948dc288d3404587e62c1cac5281519b3b2641414101efae3c",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_common_validation_exports.py",
+      "archive_member": "training_and_development/review_common_validation_exports.py",
+      "original_sha256": "002afa6f58a9eb96d05db6d2412c5537a8b535757a30a9030e4eb644d0e83ce4",
+      "published_sha256": "002afa6f58a9eb96d05db6d2412c5537a8b535757a30a9030e4eb644d0e83ce4",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_external_scalar.py",
+      "archive_member": "training_and_development/review_confirmation_external_scalar.py",
+      "original_sha256": "c400255e764a7d20406e2da133187f2d484e4b39f161e567af03bf48e86e6f01",
+      "published_sha256": "c400255e764a7d20406e2da133187f2d484e4b39f161e567af03bf48e86e6f01",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_external_scalar_preparation.py",
+      "archive_member": "training_and_development/review_confirmation_external_scalar_preparation.py",
+      "original_sha256": "ed77add4436b62f3eed19710ac1ff0cfc1a205626a356707e0d46d47fae8150a",
+      "published_sha256": "ed77add4436b62f3eed19710ac1ff0cfc1a205626a356707e0d46d47fae8150a",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_finalizer.py",
+      "archive_member": "training_and_development/review_confirmation_finalizer.py",
+      "original_sha256": "e66dda496452dc5631eef8d82b1ac8658c6d3a05d6d7514d1993feb2652f6f1e",
+      "published_sha256": "e66dda496452dc5631eef8d82b1ac8658c6d3a05d6d7514d1993feb2652f6f1e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_geometry.py",
+      "archive_member": "training_and_development/review_confirmation_geometry.py",
+      "original_sha256": "8290021aa358015d946f6f5854cf513c599928fb0486f0d1a3fc64ee350b730e",
+      "published_sha256": "8290021aa358015d946f6f5854cf513c599928fb0486f0d1a3fc64ee350b730e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_local_outcomes.py",
+      "archive_member": "training_and_development/review_confirmation_local_outcomes.py",
+      "original_sha256": "82fb60737d0c3c7ab4695bb1dc850c881f75c430d36496e1be7f31c1fde68595",
+      "published_sha256": "82fb60737d0c3c7ab4695bb1dc850c881f75c430d36496e1be7f31c1fde68595",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_local_outputs.py",
+      "archive_member": "training_and_development/review_confirmation_local_outputs.py",
+      "original_sha256": "2dbf4e09430aae4ecef8ef60d1ba65d70da9080369039777ec8cf630cc38f410",
+      "published_sha256": "2dbf4e09430aae4ecef8ef60d1ba65d70da9080369039777ec8cf630cc38f410",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_local_outputs_v2.py",
+      "archive_member": "training_and_development/review_confirmation_local_outputs_v2.py",
+      "original_sha256": "b6178cb0cb28e9d1d2fbc4c8f4c8436fdab660492e7047008bca3c4cfb8b7a3f",
+      "published_sha256": "58b345f0fdc9304b02f8b4e828e5a1fe1fa17dff243fb6dcf8a77cec8645455c",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_outcome_guards.py",
+      "archive_member": "training_and_development/review_confirmation_outcome_guards.py",
+      "original_sha256": "3e4742f57fe103200d529cf515654c63122b244cd5784e43a286a1b2ec83d388",
+      "published_sha256": "3e4742f57fe103200d529cf515654c63122b244cd5784e43a286a1b2ec83d388",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_outcomes.py",
+      "archive_member": "training_and_development/review_confirmation_outcomes.py",
+      "original_sha256": "850962bf1ba001c18cfb89925b2eb5c90a352e65800563c8b43f6629c4bf05b9",
+      "published_sha256": "850962bf1ba001c18cfb89925b2eb5c90a352e65800563c8b43f6629c4bf05b9",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_prediction_geometry.py",
+      "archive_member": "training_and_development/review_confirmation_prediction_geometry.py",
+      "original_sha256": "b93c4bfaa2b08fc688c6072993d23741cb02d362a22d5f5a5e6b600bde7cecf3",
+      "published_sha256": "b93c4bfaa2b08fc688c6072993d23741cb02d362a22d5f5a5e6b600bde7cecf3",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_preparation.py",
+      "archive_member": "training_and_development/review_confirmation_preparation.py",
+      "original_sha256": "2a81f73e782646a875dc0e3d422299f24da85b2c123cde8347341a10830050e9",
+      "published_sha256": "179ec067a82993e58daea3838065610743849bc7a8e69858baa109a477a3c61a",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_queue.py",
+      "archive_member": "training_and_development/review_confirmation_queue.py",
+      "original_sha256": "0f13686c8f740b556be91508ff67fcbde8b569a9ecca6b416ad92a1ff3fc067f",
+      "published_sha256": "0f13686c8f740b556be91508ff67fcbde8b569a9ecca6b416ad92a1ff3fc067f",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_report_tables.py",
+      "archive_member": "training_and_development/review_confirmation_report_tables.py",
+      "original_sha256": "574a86812630191e72df2ab141df748f1890f07187df77701a28488d77ec4b58",
+      "published_sha256": "574a86812630191e72df2ab141df748f1890f07187df77701a28488d77ec4b58",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_selection_auditor.py",
+      "archive_member": "training_and_development/review_confirmation_selection_auditor.py",
+      "original_sha256": "b6557ecdfbb7e8b008448a153d8fcf984a3d4a36651ae458cf5972da3a6cb021",
+      "published_sha256": "b6557ecdfbb7e8b008448a153d8fcf984a3d4a36651ae458cf5972da3a6cb021",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_confirmation_selection_queue.py",
+      "archive_member": "training_and_development/review_confirmation_selection_queue.py",
+      "original_sha256": "705e89fe720ae30e496a4cc423bce32b5d8725582bc5d663914008e84d5a2f83",
+      "published_sha256": "705e89fe720ae30e496a4cc423bce32b5d8725582bc5d663914008e84d5a2f83",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_first2_seed_audit_bounded.py",
+      "archive_member": "training_and_development/review_first2_seed_audit_bounded.py",
+      "original_sha256": "aa12ad505910793327a5843471a88ce5afd4737630b8eb396413cd8a2abad5b7",
+      "published_sha256": "aa12ad505910793327a5843471a88ce5afd4737630b8eb396413cd8a2abad5b7",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_full24_seed_results.py",
+      "archive_member": "training_and_development/review_full24_seed_results.py",
+      "original_sha256": "5ebbc4fb96830383dc0af02843609b85647354ec88806b7eba84fa0d7c45a6a2",
+      "published_sha256": "5ebbc4fb96830383dc0af02843609b85647354ec88806b7eba84fa0d7c45a6a2",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_integrated_manuscript_v2_self.py",
+      "archive_member": "training_and_development/review_integrated_manuscript_v2_self.py",
+      "original_sha256": "85a899938402b5cb4a69a184060edda67746cd5b99aa14cb74f594b156438255",
+      "published_sha256": "85a899938402b5cb4a69a184060edda67746cd5b99aa14cb74f594b156438255",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_local_norm_preparation.py",
+      "archive_member": "training_and_development/review_local_norm_preparation.py",
+      "original_sha256": "ee74afff5f779b57b9cc1be2df5ff3df2e006c551170f45bca206ff6b17a17be",
+      "published_sha256": "ee74afff5f779b57b9cc1be2df5ff3df2e006c551170f45bca206ff6b17a17be",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_local_output_auditor_independent.py",
+      "archive_member": "training_and_development/review_local_output_auditor_independent.py",
+      "original_sha256": "12c5986a771d26c7f6e14e5881eecb939ac8e09c1d0ec89d1b1a66ce6b77b929",
+      "published_sha256": "12c5986a771d26c7f6e14e5881eecb939ac8e09c1d0ec89d1b1a66ce6b77b929",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_pa_external_implications.py",
+      "archive_member": "training_and_development/review_pa_external_implications.py",
+      "original_sha256": "2e3e6004e177f4fd33256822c7c721e571157fdaa51fdc62018a061fcc59fb2a",
+      "published_sha256": "2e3e6004e177f4fd33256822c7c721e571157fdaa51fdc62018a061fcc59fb2a",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_policy_recovery_independent.py",
+      "archive_member": "training_and_development/review_policy_recovery_independent.py",
+      "original_sha256": "cacb088323e97d7b651c6312d9fc353992fcf14763b74e7973645bb1bf3d080f",
+      "published_sha256": "cacb088323e97d7b651c6312d9fc353992fcf14763b74e7973645bb1bf3d080f",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_repro_preparation.py",
+      "archive_member": "training_and_development/review_repro_preparation.py",
+      "original_sha256": "6da3923c6e62a641a862a51e92a74b6090cfe0c2ce1eb08f6aae571d6cf5ebe5",
+      "published_sha256": "6da3923c6e62a641a862a51e92a74b6090cfe0c2ce1eb08f6aae571d6cf5ebe5",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_seed_export_path_recovery_v2.py",
+      "archive_member": "training_and_development/review_seed_export_path_recovery_v2.py",
+      "original_sha256": "d95d0a911b22716f42f294fd9c8c1fdbebd0d1422fcbed262a062efe0df19d06",
+      "published_sha256": "d95d0a911b22716f42f294fd9c8c1fdbebd0d1422fcbed262a062efe0df19d06",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/review_seed_postprocess_v2_independent.py",
+      "archive_member": "training_and_development/review_seed_postprocess_v2_independent.py",
+      "original_sha256": "566135f23841480e548ad88e099652fceab68e6eb3e435244d0d50390abac056",
+      "published_sha256": "015b558cb18d01d0dbfd84bfb555041d0c8474508c615870fbae0adf11f1d607",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/review_seed_summary.py",
+      "archive_member": "training_and_development/review_seed_summary.py",
+      "original_sha256": "4266f0c8d00fdbe45c807143406a7fd6fb9136c8465b25e6e1129482e47e0072",
+      "published_sha256": "4266f0c8d00fdbe45c807143406a7fd6fb9136c8465b25e6e1129482e47e0072",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_amp_diagnostics.py",
+      "archive_member": "training_and_development/run_amp_diagnostics.py",
+      "original_sha256": "c34751b7ab099776909c42624a44d584a34b1ceb55d86b8ba00e9dda039e56a2",
+      "published_sha256": "c34751b7ab099776909c42624a44d584a34b1ceb55d86b8ba00e9dda039e56a2",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_common_management_v2_serial.py",
+      "archive_member": "training_and_development/run_common_management_v2_serial.py",
+      "original_sha256": "b6d58e8d23e4cb26727b0014e6bba01e1dee147204ebb35b75648b86370a53aa",
+      "published_sha256": "b6d58e8d23e4cb26727b0014e6bba01e1dee147204ebb35b75648b86370a53aa",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_common_queue.py",
+      "archive_member": "training_and_development/run_common_queue.py",
+      "original_sha256": "459c6cc6feb8680b28b6a5eb6abbf45e4b2023d4c46a16668818ce23df1e5010",
+      "published_sha256": "459c6cc6feb8680b28b6a5eb6abbf45e4b2023d4c46a16668818ce23df1e5010",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_development_queue.py",
+      "archive_member": "training_and_development/run_development_queue.py",
+      "original_sha256": "51f90cb1c7541547713c2e356f0aef4ed6246dd4b26b9d378cb3d12a91cdd76b",
+      "published_sha256": "51f90cb1c7541547713c2e356f0aef4ed6246dd4b26b9d378cb3d12a91cdd76b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_local_seed_postprocess_queue.py",
+      "archive_member": "training_and_development/run_local_seed_postprocess_queue.py",
+      "original_sha256": "b1fedb740f9a420d9d1f7d7bbec8ebc2b870a38e2acdae82a00be85a183827c7",
+      "published_sha256": "b1fedb740f9a420d9d1f7d7bbec8ebc2b870a38e2acdae82a00be85a183827c7",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_local_seed_postprocess_queue_v2.py",
+      "archive_member": "training_and_development/run_local_seed_postprocess_queue_v2.py",
+      "original_sha256": "be53702860cd35418c832dd77f5ff7b736566589373ae868c4a523b318f9bfa7",
+      "published_sha256": "d272c1a99a4b8edef73700d286f785f0d4010a173d82e6288c166b238f6bcf14",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/run_prediction_recovery_v1.py",
+      "archive_member": "training_and_development/run_prediction_recovery_v1.py",
+      "original_sha256": "64d1b98eb107e888ac4cb98f6c64b8f919696191895f0456765cc5e9001bc135",
+      "published_sha256": "64d1b98eb107e888ac4cb98f6c64b8f919696191895f0456765cc5e9001bc135",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_remaining_common_exports.py",
+      "archive_member": "training_and_development/run_remaining_common_exports.py",
+      "original_sha256": "77dcf2488be06634f043376a2118e642eb7c520fe9a15ae59f20a19222cef7e1",
+      "published_sha256": "77dcf2488be06634f043376a2118e642eb7c520fe9a15ae59f20a19222cef7e1",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/run_seed_numeric_review_queue.py",
+      "archive_member": "training_and_development/run_seed_numeric_review_queue.py",
+      "original_sha256": "ad0231a65f0581795c30a5e6fd413bcfee503dc740319d41be7b5d614655be41",
+      "published_sha256": "ad0231a65f0581795c30a5e6fd413bcfee503dc740319d41be7b5d614655be41",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/safe_load_external_checkpoint.py",
+      "archive_member": "training_and_development/safe_load_external_checkpoint.py",
+      "original_sha256": "75e769bd60c3c821cd164be9892d4984ee3f30e842ca488e45aeb968094b4a37",
+      "published_sha256": "75e769bd60c3c821cd164be9892d4984ee3f30e842ca488e45aeb968094b4a37",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/seal_dataset.py",
+      "archive_member": "training_and_development/seal_dataset.py",
+      "original_sha256": "8b4c2bd2cd4f686a3d8ec40380e61ca53a6a7e169a4e8cfd7f2a2b70392b9c19",
+      "published_sha256": "8b4c2bd2cd4f686a3d8ec40380e61ca53a6a7e169a4e8cfd7f2a2b70392b9c19",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/seed_stability_summary_v1.py",
+      "archive_member": "training_and_development/seed_stability_summary_v1.py",
+      "original_sha256": "5fb80182e6c05c33a2157a213de5e65999fa15a4c5ef3c4c75fff941a1ca259e",
+      "published_sha256": "5fb80182e6c05c33a2157a213de5e65999fa15a4c5ef3c4c75fff941a1ca259e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_common_development.py",
+      "archive_member": "training_and_development/summarize_common_development.py",
+      "original_sha256": "cd0bdf4a1b4ef978b9703e6b201849c908fe8a70f4e44ca60ceab097b84cea59",
+      "published_sha256": "cd0bdf4a1b4ef978b9703e6b201849c908fe8a70f4e44ca60ceab097b84cea59",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_common_prefix_auc.py",
+      "archive_member": "training_and_development/summarize_common_prefix_auc.py",
+      "original_sha256": "52359323c2937265746a883d718435385784f3aae6cf773b9031987aeea6ca07",
+      "published_sha256": "52359323c2937265746a883d718435385784f3aae6cf773b9031987aeea6ca07",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_confirmation_findings.py",
+      "archive_member": "training_and_development/summarize_confirmation_findings.py",
+      "original_sha256": "f422d8d1980f293b0aac6e33f4ea388d4628fe9d71da1b8d5ad0faef2a983add",
+      "published_sha256": "f422d8d1980f293b0aac6e33f4ea388d4628fe9d71da1b8d5ad0faef2a983add",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_development.py",
+      "archive_member": "training_and_development/summarize_development.py",
+      "original_sha256": "830b56f5bc080580d41d6a974834cc80c0e472ef651b71d3c467ae11216a5e66",
+      "published_sha256": "830b56f5bc080580d41d6a974834cc80c0e472ef651b71d3c467ae11216a5e66",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_local_scale_contrasts.py",
+      "archive_member": "training_and_development/summarize_local_scale_contrasts.py",
+      "original_sha256": "2c1f903c6130c23df998045b114b58b3be2febdc1ef81e67690df7cd0e8bcd1b",
+      "published_sha256": "2c1f903c6130c23df998045b114b58b3be2febdc1ef81e67690df7cd0e8bcd1b",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/summarize_remaining_common_exports.py",
+      "archive_member": "training_and_development/summarize_remaining_common_exports.py",
+      "original_sha256": "ce8d286bc976eccc15fe80fd31d595896be846a068ff6095b42f2286f829b93e",
+      "published_sha256": "ce8d286bc976eccc15fe80fd31d595896be846a068ff6095b42f2286f829b93e",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/train_common.py",
+      "archive_member": "training_and_development/train_common.py",
+      "original_sha256": "0495001fd23bbc06cd0fb882228177b53a51808d00e1c3c6251b16361815966f",
+      "published_sha256": "043683c8477f70b2d2111b3f36ebc410a94d2235915d914a8eb2e166cc266095",
+      "modified": true
+    },
+    {
+      "file": "source/training_and_development/train_local.py",
+      "archive_member": "training_and_development/train_local.py",
+      "original_sha256": "ee1a92f72d6f6617fa5b0a6915148b16ce4bd4118787d8d2223f706d84493c78",
+      "published_sha256": "ee1a92f72d6f6617fa5b0a6915148b16ce4bd4118787d8d2223f706d84493c78",
+      "modified": false
+    },
+    {
+      "file": "source/training_and_development/verify_models_common_cpu.py",
+      "archive_member": "training_and_development/verify_models_common_cpu.py",
+      "original_sha256": "73454f83435e4a9a7ebae19b9a5275a2bd7ce9452e5a62778efe27b27d49f4ef",
+      "published_sha256": "73454f83435e4a9a7ebae19b9a5275a2bd7ce9452e5a62778efe27b27d49f4ef",
+      "modified": false
+    },
+    {
+      "file": "analysis/summarize_and_plot.py",
+      "original_sha256": "9739c65ae9104e803c4f8c06bfc76d047259fc58fcac86bb1034bad06ee66cfc",
+      "published_sha256": "f8424b74c161ae9b87a7d093f67ac0086b8f6952a6a9b4a01cbc050817b7354d",
+      "changes": "Font family fallback only; numerical calculations unchanged.",
+      "modified": true
+    }
+  ],
+  "note": "Original immutable archive retained locally. Published copies have separate hashes; historical locks have not been relabelled as valid for edited copies."
+}

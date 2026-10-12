@@ -1,0 +1,90 @@
+{
+  "record_type": "Prospective freeze for a post-development sensitivity analysis; not preregistration of original study",
+  "freeze_started_utc": "2026-10-10T14:29:06.819686+00:00",
+  "freeze_completed_utc": "2026-10-10T14:30:28.024036+00:00",
+  "models": [
+    "dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17",
+    "dev_common_v2_lr1e4_resnet18_soft_seg_L256_s17",
+    "dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17",
+    "dev_common_v2_lr1e4_convnextv2_tiny_soft_seg_L256_s17",
+    "dev_common_v2_lr3e4_resnet18_hard_seg_L256_s17",
+    "dev_common_v2_lr3e4_resnet18_soft_seg_L256_s17",
+    "dev_common_v2_lr3e4_convnextv2_tiny_hard_seg_L256_s17",
+    "dev_common_v2_lr3e4_convnextv2_tiny_soft_seg_L256_s17",
+    "dev_seed_v1_lr1e4_resnet18_hard_seg_L256_s29",
+    "dev_seed_v1_lr1e4_resnet18_soft_seg_L256_s29",
+    "dev_seed_v1_lr1e4_convnextv2_tiny_hard_seg_L256_s29",
+    "dev_seed_v1_lr1e4_convnextv2_tiny_soft_seg_L256_s29",
+    "dev_seed_v1_lr3e4_resnet18_hard_seg_L256_s29",
+    "dev_seed_v1_lr3e4_resnet18_soft_seg_L256_s29",
+    "dev_seed_v1_lr3e4_convnextv2_tiny_hard_seg_L256_s29",
+    "dev_seed_v1_lr3e4_convnextv2_tiny_soft_seg_L256_s29",
+    "dev_seed_v1_lr1e4_resnet18_hard_seg_L256_s43",
+    "dev_seed_v1_lr1e4_resnet18_soft_seg_L256_s43",
+    "dev_seed_v1_lr1e4_convnextv2_tiny_hard_seg_L256_s43",
+    "dev_seed_v1_lr1e4_convnextv2_tiny_soft_seg_L256_s43",
+    "dev_seed_v1_lr3e4_resnet18_hard_seg_L256_s43",
+    "dev_seed_v1_lr3e4_resnet18_soft_seg_L256_s43",
+    "dev_seed_v1_lr3e4_convnextv2_tiny_hard_seg_L256_s43",
+    "dev_seed_v1_lr3e4_convnextv2_tiny_soft_seg_L256_s43"
+  ],
+  "R": [
+    1,
+    2,
+    4,
+    6
+  ],
+  "M_m": [
+    1,
+    2,
+    4
+  ],
+  "budgets": [
+    0.1,
+    0.2,
+    0.3,
+    0.5
+  ],
+  "shift_fractions_of_M": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.5,
+      0.0
+    ],
+    [
+      0.0,
+      0.5
+    ],
+    [
+      0.5,
+      0.5
+    ]
+  ],
+  "expected_rows": 4608,
+  "domain_windows": 338,
+  "base_origin_utm_m": [
+    745172.0,
+    4479160.0
+  ],
+  "domain": "Same native-alpha-valid support in all conditions; padded/background-invalid pixels excluded",
+  "target": "Original coarse mask > 0 intersect alpha; annotated-patch area, not plant leaf area",
+  "selection": "descending integrated predicted proportion; ASCII unit-ID tie break; strict whole-unit prefix; stop at first unit exceeding budget; no fill-in",
+  "geometry": "Use archived exact 1 m integration for integer-metre origins (M2 and M4 shifts). Recompute projected native-pixel quadrilateral overlap for the three half-metre origins at M1. No display rasters or smoothing.",
+  "verification": [
+    "Reproduce all 1152 original zero-origin selected-ID lists and numeric outcomes before shifted evaluation",
+    "Independently integrate all saved predictions on archived zero-origin CSR and reproduce original unit predictions",
+    "Area and target total conservation across all grid origins, tolerance absolute 1e-7 m2 and relative 1e-9",
+    "No fitting or model/setting selection"
+  ],
+  "summary": "For each model/R/M/budget report min,max,range across all four origins; differences from original for all three shifts; grid-size comparison at each normalized origin; descriptive summaries only, no independent-field inference",
+  "stopping_rule": "All 24 models unless missing/corrupt inputs or runtime failure; retain failure and report changed scope explicitly, never select a favorable subset",
+  "input_manifest": "input_manifest.json",
+  "input_manifest_sha256": "46d94e84a8ba717ed9fca9fc39b3be0041348b6f6b5953070d1c3b2acc7baeb8",
+  "script_sha256": "0d8c855b72be917e29e8b833797adf80fdece286691f247a7648de8f0cd92e0c",
+  "no_training": true,
+  "no_new_independent_scene": true,
+  "historical_results_previously_seen": true
+}

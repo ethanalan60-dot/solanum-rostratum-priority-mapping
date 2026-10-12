@@ -1,0 +1,10 @@
+{
+  "utc": "2026-10-12T02:13:23.600044+00:00",
+  "python_syntax_files_passed": 197,
+  "summary_recomputed": true,
+  "independent_4608_row_checks": "passed",
+  "remaining_drive_paths": "four intentional invalid-path test fixtures only",
+  "credential_pattern_candidates": 0,
+  "training_rerun": false,
+  "raw_to_prediction_rerun": false
+}

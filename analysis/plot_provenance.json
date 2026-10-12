@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-12T02:12:29.330751+00:00",
+  "script_sha256": "c44a1ae98de673326600ab366bed6e84b7bdb9c9359be746a2df7b722f06b030",
+  "data_sha256": "0911f0a0f77835d8920618fae60945c0408c0b7bbe044554c4530d3a7b2d079d",
+  "matplotlib": "3.11.1",
+  "generative_image_used": false,
+  "figure_type": "computed statistical plot",
+  "all_96_cases_each_cell": true,
+  "jitter": "deterministic function of index for visualization only",
+  "figure_files": {
+    "Figure_S18_Grid_origin_EN.pdf": "ae9e4f609579ff5755595fee92b2964e5cc967f2fcf56bcb5ec8f27a01202110",
+    "Figure_S18_Grid_origin_EN.png": "b17547574023a15638215f23a12fb00370b772d439085d84857595033da7b003",
+    "Figure_S18_Grid_origin_EN.svg": "49d4577e80516db29fd42d9a2d5ab86e9e57212d03f66ce64e55b7b180a1aa1b",
+    "Figure_S18_Grid_origin_ZH.pdf": "bb39a5d2a96e60c2bd256ce18cdf735c67a74c0812c4517d06356c2822b50859",
+    "Figure_S18_Grid_origin_ZH.png": "66f1a06aa476b94bf4938b7143ca291e386c4bc415bcb3b720022e2dba092d0b",
+    "Figure_S18_Grid_origin_ZH.svg": "e13a0b15a4120442f4f7237a2e8662b80a4302b93c3d05e5599b22579b40bf5f"
+  }
+}

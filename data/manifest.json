@@ -1,0 +1,95 @@
+{
+  "scope": "four adjacent tiles in one scene; not four independent sites",
+  "publication_permission": "Rights holder explicitly authorized public download and reuse under CC BY 4.0.",
+  "files": [
+    {
+      "file": "4_5.tif",
+      "bytes": 80852367,
+      "sha256": "7fa95000a06e8538eb1f2b120697667ad1ea3a84dfb9ddc570f19afa6728fa74"
+    },
+    {
+      "file": "4_5.png",
+      "bytes": 353763,
+      "sha256": "867653ce2320d522e403c4b639bad067bc53f028a9c799f01d5057a3bf8cff10"
+    },
+    {
+      "file": "4_5.json",
+      "bytes": 13800241,
+      "sha256": "d11c3a1cf77429921cb72628525d1a22c896912cd7025d280b74cc42f75f6e53"
+    },
+    {
+      "file": "4_6.tif",
+      "bytes": 551032124,
+      "sha256": "a605d70f7dc645495beef6d35296aa1e21eb5cfacc966d630a48706c2ce9e853"
+    },
+    {
+      "file": "4_6.png",
+      "bytes": 442972,
+      "sha256": "5179dc9445650f5e05461d017ab0d27bcde088f25005cc82d2e2bdb0b314bc50"
+    },
+    {
+      "file": "4_6.json",
+      "bytes": 55173850,
+      "sha256": "5dd18b41366ed651cb03091a304d3a9ffec196ee351eaeb25397c1c6cb38f992"
+    },
+    {
+      "file": "4_7.tif",
+      "bytes": 538219324,
+      "sha256": "09865f95edb9e7980401c636d038b6f5cbb98ab159be573120f0a08f3d0affaf"
+    },
+    {
+      "file": "4_7.png",
+      "bytes": 454432,
+      "sha256": "9646757731555aff244d911b46e330698903b33e7fde6d6e7e79d46593f7e122"
+    },
+    {
+      "file": "4_7.json",
+      "bytes": 53946828,
+      "sha256": "198124746a73612dc20609e0d226a76921912d06486024ab57d57fdd7d85044e"
+    },
+    {
+      "file": "4_8.tif",
+      "bytes": 134525240,
+      "sha256": "28d9100c6a036628085769afb5ea6aa5ca79fc14f2e50678f02b79eb17806885"
+    },
+    {
+      "file": "4_8.png",
+      "bytes": 322381,
+      "sha256": "4dd5c5e79c800d59c243865e7606352b54fcce7e14ea8d32f56d54828c71ff8c"
+    },
+    {
+      "file": "4_8.json",
+      "bytes": 19342434,
+      "sha256": "358e29366e8ff527fb03c55b54801854029e43cb12bf44d15b614afa94a71a38"
+    }
+  ],
+  "bytes": 1448465956,
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping",
+  "assets": [
+    {
+      "file": "4_5_source.zip",
+      "bytes": 85399527,
+      "sha256": "fe2fcd08969a5499b49200eed0b80be7bc1b1d84974c1e7dd9478e1ee5095da1",
+      "url": "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping/releases/download/v1.0.0/4_5_source.zip"
+    },
+    {
+      "file": "4_6_source.zip",
+      "bytes": 590380302,
+      "sha256": "c3d25f01b74e915f858df9e5708e6d61c2eb93b8d079c65e737cf39a471ce0f3",
+      "url": "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping/releases/download/v1.0.0/4_6_source.zip"
+    },
+    {
+      "file": "4_7_source.zip",
+      "bytes": 576716844,
+      "sha256": "ed719b77e4faa6068b518a7509baa2556ede407e836b9acd141b6ee1c935954b",
+      "url": "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping/releases/download/v1.0.0/4_7_source.zip"
+    },
+    {
+      "file": "4_8_source.zip",
+      "bytes": 143694587,
+      "sha256": "1590043f9c582b401e017e995b2c212df16f15fc40311643ad84c28ae69763fa",
+      "url": "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping/releases/download/v1.0.0/4_8_source.zip"
+    }
+  ]
+}

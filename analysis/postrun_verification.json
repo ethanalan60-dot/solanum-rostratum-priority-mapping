@@ -1,0 +1,17 @@
+{
+  "started_utc": "2026-10-10T14:41:14.386197+00:00",
+  "completed_utc": "2026-10-10T14:41:43.500401+00:00",
+  "all_frozen_input_files_unchanged_after_run": true,
+  "checked_input_files": 8511,
+  "complete_unique_result_rows": 4608,
+  "budget_and_metric_checks": true,
+  "direct_vs_nested_grid_checks": 24,
+  "fixed_window_ordinals": [
+    0,
+    169,
+    337
+  ],
+  "max_abs_direct_vs_nested_error_m2": 6.394884621840902e-14,
+  "explanation": "Direct projected-native-pixel integration at M2/M4 agrees with shifted aggregation from the native-exact M1 integrals. This checks the grid shift/index formula; both paths reuse the archived geometric intersection implementation.",
+  "verification_script_sha256": "a00bad21d27093eba6847dc97276fe7c5322be2a478eae3a9c3462eda920eeb7"
+}
