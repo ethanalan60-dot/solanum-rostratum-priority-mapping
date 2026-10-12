@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this version of the dataset and code if you reuse it."
+title: "Solanum rostratum priority mapping dataset and code"
+version: 1.0.0
+date-released: 2026-10-12
+type: dataset
+authors:
+  - name: "ethanalan60-dot"
+repository-code: "https://github.com/ethanalan60-dot/solanum-rostratum-priority-mapping"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "One-scene imagery and coarse patch annotations with research code and complete grid-origin result tables. Code is MIT; data are CC BY 4.0."
