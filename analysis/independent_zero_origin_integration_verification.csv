@@ -1,4 +1,4 @@
-run_id,unit_id,max_abs_prediction_error_m2,area_abs_error_m2,target_abs_error_m2
+﻿run_id,unit_id,max_abs_prediction_error_m2,area_abs_error_m2,target_abs_error_m2
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,M1_E1_N30,0.0,0.0,0.0
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,M1_E1_N31,0.0,0.0,0.0
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,M1_E1_N32,0.0,0.0,0.0

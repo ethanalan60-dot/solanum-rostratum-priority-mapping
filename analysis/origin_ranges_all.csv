@@ -1,4 +1,4 @@
-run_id,R,M,budget,baseline_capture_pct,min_capture_pct,max_capture_pct,range_pp,max_absolute_change_from_baseline_pp,min_change_from_baseline_pp,max_change_from_baseline_pp
+﻿run_id,R,M,budget,baseline_capture_pct,min_capture_pct,max_capture_pct,range_pp,max_absolute_change_from_baseline_pp,min_change_from_baseline_pp,max_change_from_baseline_pp
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,1,1,0.1,86.46387282247798,86.46387282247798,88.63004421273052,2.1661713902525435,2.1661713902525435,0.0,2.1661713902525435
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,1,1,0.2,94.82774368953999,94.82774368953999,97.0026590900787,2.1749154005387084,2.1749154005387084,0.0,2.1749154005387084
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,1,1,0.3,95.15904099591786,95.15904099591786,97.08673380709583,1.9276928111779625,1.9276928111779625,0.0,1.9276928111779625

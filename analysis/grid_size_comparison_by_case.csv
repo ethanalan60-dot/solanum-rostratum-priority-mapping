@@ -1,4 +1,4 @@
-run_id,R,budget,M4_minus_M2_min_pp,M4_minus_M2_max_pp,direction_across_four_normalized_origins
+﻿run_id,R,budget,M4_minus_M2_min_pp,M4_minus_M2_max_pp,direction_across_four_normalized_origins
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,1,0.1,-21.216878091271468,-6.922174525997107,lower_all_origins
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,2,0.1,-19.030693774685346,-5.6164475359937,lower_all_origins
 dev_common_v2_lr1e4_convnextv2_tiny_hard_seg_L256_s17,4,0.1,-20.85967990945472,-9.865930212457997,lower_all_origins

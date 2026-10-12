@@ -1,4 +1,4 @@
-budget,paired_model_R_origin_comparisons,M4_lower_than_M2,M4_higher_than_M2,equal_within_1e_9pp,model_R_cases_lower_at_all_origins,model_R_cases_higher_at_all_origins,model_R_cases_mixed_or_equal,M4_minus_M2_median_pp
+﻿budget,paired_model_R_origin_comparisons,M4_lower_than_M2,M4_higher_than_M2,equal_within_1e_9pp,model_R_cases_lower_at_all_origins,model_R_cases_higher_at_all_origins,model_R_cases_mixed_or_equal,M4_minus_M2_median_pp
 0.1,384,372,12,0,85,0,11,-12.179945213001773
 0.2,384,352,32,0,74,0,22,-5.2042952228459995
 0.3,384,259,125,0,31,7,58,-0.3555469101426354

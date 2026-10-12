@@ -1,4 +1,4 @@
-run_id,M,R,budget,ids_exact,actual_area_m2,captured_target_m2,capture_fraction
+﻿run_id,M,R,budget,ids_exact,actual_area_m2,captured_target_m2,capture_fraction
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,1,1,0.1,True,0.0,0.0,0.0
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,1,1,0.2,True,0.0,0.0,0.0
 dev_common_v2_lr1e4_resnet18_hard_seg_L256_s17,1,1,0.3,True,0.0,0.0,0.0

@@ -1,4 +1,4 @@
-window_index,window_id,M,shift_x_m,shift_y_m,all_96_prediction_integrals_checked,area_target_and_prediction_max_abs_error_m2,keys_exact
+﻿window_index,window_id,M,shift_x_m,shift_y_m,all_96_prediction_integrals_checked,area_target_and_prediction_max_abs_error_m2,keys_exact
 0,4_7_14_17,2,0.0,0.0,True,2.353672812205332e-14,True
 0,4_7_14_17,2,1.0,0.0,True,2.9753977059954195e-14,True
 0,4_7_14_17,2,0.0,1.0,True,5.440092820663267e-14,True
