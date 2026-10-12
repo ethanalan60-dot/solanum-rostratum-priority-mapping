@@ -6,5 +6,14 @@
   "remaining_drive_paths": "four intentional invalid-path test fixtures only",
   "credential_pattern_candidates": 0,
   "training_rerun": false,
-  "raw_to_prediction_rerun": false
+  "raw_to_prediction_rerun": false,
+  "analysis_environment": {
+    "python": "3.11.4",
+    "numpy": "1.26.4",
+    "matplotlib": "3.11.1"
+  },
+  "source_mapping_verified": true,
+  "plot_provenance_verified": true,
+  "english_plot_visually_checked": true,
+  "download_tool_verified_local_assets": 4
 }
