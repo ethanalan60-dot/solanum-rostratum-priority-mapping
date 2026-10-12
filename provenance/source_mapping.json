@@ -1365,6 +1365,18 @@
       "published_sha256": "f8424b74c161ae9b87a7d093f67ac0086b8f6952a6a9b4a01cbc050817b7354d",
       "changes": "Font family fallback only; numerical calculations unchanged.",
       "modified": true
+    },
+    {
+      "file": "source/grid_origin/grid_origin_sensitivity.py",
+      "original_sha256": "0d8c855b72be917e29e8b833797adf80fdece286691f247a7648de8f0cd92e0c",
+      "published_sha256": "87046a0f77e5e50959f0c7c5e2e6c32ee38cf156c36fd4b1fcf9b2d845d0a76b",
+      "changes": "Machine-specific archive paths replaced by SRPA_RECORDS_ROOT and SRPA_ORIGINAL_CAMPAIGN environment settings where applicable."
+    },
+    {
+      "file": "source/grid_origin/verify_completed_experiment.py",
+      "original_sha256": "a00bad21d27093eba6847dc97276fe7c5322be2a478eae3a9c3462eda920eeb7",
+      "published_sha256": "a00bad21d27093eba6847dc97276fe7c5322be2a478eae3a9c3462eda920eeb7",
+      "changes": "Machine-specific archive paths replaced by SRPA_RECORDS_ROOT and SRPA_ORIGINAL_CAMPAIGN environment settings where applicable."
     }
   ],
   "note": "Original immutable archive retained locally. Published copies have separate hashes; historical locks have not been relabelled as valid for edited copies."
